@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.sabcorebundle</string>
+	<key>CFBundleName</key>
+	<string>SabCoreBundle</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_SabCore-Rus-Orig</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.sabcorebundle.sabcore-rus-orig</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+	<key>KLInfo_SabCore-Russian</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.sabcorebundle.sabcore-russian</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+	<key>KLInfo_SabCore-U.S. orig</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.sabcorebundle.sabcore-u.s.orig</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
