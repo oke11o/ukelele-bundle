@@ -30,6 +30,17 @@
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
+	<key>KLInfo_SabCore-U.S.</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.sabcorebundle.sabcore-u.s.</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_SabCore-U.S. orig</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
